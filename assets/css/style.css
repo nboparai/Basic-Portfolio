@@ -65,8 +65,11 @@
 h2{
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 7px;
+    padding: 20px;
     margin-bottom: 5px;
+}
+p{
+    padding: 10px;
 }
 a:link{
     text-decoration: none;
@@ -122,11 +125,14 @@ label[for="name"]{
      background-color: #ffffff;
  }
  .images{
-     /* position: fixed; */
+     margin-left: 20%;
+     margin-right: 20%;
+     height: 300px;
+     background-color: #ffffff;
  }
  img{
     
-    /* padding: 5px; */
+    
     margin:10px;
     
  }
@@ -224,4 +230,5 @@ label[for="name"]{
 #i8{
     float: left;
     border: none;
+    margin-left: 30px;
 }
